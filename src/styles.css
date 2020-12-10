@@ -1,0 +1,42 @@
+* {
+  background: #d7cec7;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+}
+
+button {
+  margin-right: 1.5rem;
+  padding: 1rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid black;
+  background-color: #565656;
+  color: white;
+  box-shadow: 3px 3px;
+}
+button:active {
+  box-shadow: 3px 3px black;
+}
+.main-item p {
+  margin-right: 1rem;
+  border: 1px solid black;
+  padding: 1rem;
+  max-width: 300px;
+  margin: auto;
+  margin-top: 2rem;
+  border-radius: 0.5rem;
+}
+.main-item {
+}
+.usp {
+  border-bottom: 1px solid black;
+  padding-bottom: 1rem;
+}
+.header {
+  margin-top: 4rem;
+  color: #76323f;
+}
